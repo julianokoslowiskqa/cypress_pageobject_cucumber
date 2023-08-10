@@ -15,4 +15,4 @@ Feature: Login no site My Store
         Given que acesso a página do site My Store
         When acesso a pagina de login
         And insiro email "darthvader@imperio.com" e senha "Anakin123"
-        Then devo ser avisado sobre credenciais incorretas
+        Then devo ser avisado sobre credenciais incorretas 
